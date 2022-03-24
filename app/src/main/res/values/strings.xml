@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Historica App</string>
+    <string name="app_name">Historica</string>
+    <string name="logo_desc">Historica Logo</string>
+    <string name="welcome_text">Welcome {$name}!</string>
+    <string name="play_label">Play</string>
+    <string name="gallery_label">Gallery</string>
+    <string name="places_explored_label">Places Explored</string>
+    <string name="settings_label">Settings</string>
+    <string name="logout_label">logout</string>
 </resources>
