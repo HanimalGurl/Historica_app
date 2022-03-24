@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HistoricaApp">
         <activity
-            android:name=".MainActivity"
+            android:name=".GameActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomescreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
